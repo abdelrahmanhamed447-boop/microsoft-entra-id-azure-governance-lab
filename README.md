@@ -31,6 +31,36 @@ Complete lab documentation including **configuration steps, screenshots, validat
 
 ---
 
+## **Lab Environment**
+
+The lab environment includes:
+
+- **On-premises Active Directory**
+- **Microsoft Entra ID**
+- **Microsoft Entra Connect Sync**
+- **Microsoft Entra Cloud Sync**
+- **Microsoft Entra Provisioning Agent**
+- **Azure Subscription**
+- **Azure Policy**
+- **Azure Virtual Machines**
+- **Microsoft Entra ID P2**
+
+---
+
+## **Prerequisites**
+
+Before performing the lab, the following components are required:
+
+- **Azure Subscription**
+- **Microsoft Entra ID tenant**
+- **On-premises Active Directory environment**
+- **Windows Server environment**
+- **Microsoft Entra Connect Sync**
+- **Microsoft Entra Cloud Sync**
+- Basic knowledge of **Active Directory and Azure administration**
+
+---
+
 ## **Technologies & Services**
 
 - **Microsoft Entra ID**
