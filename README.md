@@ -1,102 +1,123 @@
-Microsoft Entra Identity, Synchronization & Azure Governance Lab
-Overview
-A hands-on Microsoft Entra ID and Azure governance lab demonstrating
-identity synchronization, user and group management, Microsoft Entra ID
-P2 licensing, dynamic group membership, and Azure Policy governance.
+# Microsoft Entra Identity, Synchronization & Azure Governance Lab
 
-The lab includes practical configuration and validation steps performed
-across Microsoft Entra ID, Microsoft Entra Connect Sync, Microsoft Entra
-Cloud Sync, Active Directory, and Azure Policy.
+## **Overview**
 
-Lab Objectives
-Configure and validate Microsoft Entra Connect Sync.
+A hands-on **Microsoft Entra ID and Azure Governance Lab** demonstrating identity synchronization, user and group management, Microsoft Entra ID P2 licensing, dynamic group membership, and Azure Policy governance.
 
-Configure and validate Microsoft Entra Cloud Sync.
+The lab includes practical configuration and validation steps across **Microsoft Entra ID, Microsoft Entra Connect Sync, Microsoft Entra Cloud Sync, Active Directory, and Azure Policy**.
 
-Synchronize identities between on-premises Active Directory and
-Microsoft Entra ID.
+---
 
-Manage Microsoft Entra ID users and security groups.
+## **Lab Objectives**
 
-Configure dynamic group membership.
+- **Configure and validate Microsoft Entra Connect Sync.**
+- **Configure and validate Microsoft Entra Cloud Sync.**
+- Synchronize identities between **on-premises Active Directory and Microsoft Entra ID**.
+- Manage **Microsoft Entra ID users and security groups**.
+- Configure **dynamic group membership**.
+- Assign and manage **Microsoft Entra ID P2 licensing**.
+- Configure **Azure Policy assignments and compliance controls**.
+- Apply an **Allowed Virtual Machine Size SKUs** policy.
+- Test **Azure VM deployments** against Azure Policy controls.
+- Analyze **policy-denied deployments** and validate governance enforcement.
 
-Assign and manage Microsoft Entra ID P2 licensing.
+---
 
-Configure Azure Policy assignments and compliance controls.
+## **Technologies & Services**
 
-Apply an Allowed Virtual Machine Size SKUs policy.
+- **Microsoft Entra ID**
+- **Microsoft Entra Connect Sync**
+- **Microsoft Entra Cloud Sync**
+- **Active Directory Domain Services (AD DS)**
+- **Azure Policy**
+- **Microsoft Entra ID P2**
+- **Azure Virtual Machines**
+- **PowerShell**
 
-Test VM deployments against Azure Policy controls.
+---
 
-Analyze policy-denied deployments and validate governance
-enforcement.
+## **Lab Workflow**
 
-Technologies & Services
-Microsoft Entra ID
+### **1. Active Directory Preparation**
+- Prepared the on-premises **Active Directory** environment.
+- Configured users and organizational structure required for synchronization.
 
-Microsoft Entra Connect Sync
+### **2. Microsoft Entra Connect Sync**
+- Installed and configured **Microsoft Entra Connect Sync**.
+- Configured synchronization between **on-premises Active Directory and Microsoft Entra ID**.
+- Verified synchronization status and synchronized users.
 
-Microsoft Entra Cloud Sync
+### **3. Microsoft Entra Cloud Sync**
+- Installed the **Microsoft Entra Provisioning Agent**.
+- Configured **Cloud Sync**.
+- Configured synchronization scope and filtering.
+- Verified provisioning and synchronization results.
 
-Active Directory Domain Services (AD DS)
+### **4. User & Group Management**
+- Managed **Microsoft Entra ID users**.
+- Configured **Security Groups**.
+- Configured **Dynamic Group Membership**.
+- Verified automatic group membership based on configured attributes.
 
-Azure Policy
+### **5. Microsoft Entra ID P2**
+- Activated and configured **Microsoft Entra ID P2**.
+- Assigned the required license.
+- Verified licensing and user assignment.
 
-Microsoft Entra ID P2
+### **6. Azure Policy & Governance**
+- Created and configured **Azure Policy assignments**.
+- Configured policy compliance controls.
+- Implemented an **Allowed Virtual Machine Size SKUs** policy.
+- Tested Azure VM deployments against the configured policy.
 
-Azure Virtual Machines
+### **7. Policy Enforcement Testing**
+- Tested deployments using allowed and restricted VM sizes.
+- Analyzed **policy-denied deployments**.
+- Verified that Azure Policy correctly enforced the configured governance rules.
 
-PowerShell
+---
 
-Lab Workflow
-Prepare the on-premises Active Directory environment.
+## **Evidence / Screenshots**
 
-Configure Microsoft Entra Connect Sync.
+The complete lab documentation contains the **configuration steps, screenshots, validation results, and policy testing** performed during the lab.
 
-Verify synchronized users and synchronization status.
+### **View the Complete Lab Documentation**
 
-Configure Microsoft Entra Cloud Sync and the provisioning agent.
+**[📄 Open the Complete Lab Screenshots & Documentation (PDF)](./microsoft-entra-id-azure-governance-lab.pdf)**
 
-Configure scoping and synchronization settings.
+---
 
-Manage users, security groups, and dynamic membership.
+## **Key Outcomes**
 
-Assign Microsoft Entra ID P2 licensing.
+- **Verified identity synchronization** between on-premises Active Directory and Microsoft Entra ID.
+- Configured and validated **Microsoft Entra Connect Sync**.
+- Configured and validated **Microsoft Entra Cloud Sync**.
+- Implemented **user and group management**.
+- Configured **dynamic group membership**.
+- Applied **Microsoft Entra ID P2 licensing**.
+- Implemented **Azure Policy governance controls**.
+- Validated **policy enforcement** through Azure VM deployment testing.
 
-Create and configure Azure Policy assignments.
+---
 
-Configure Allowed Virtual Machine Size SKUs governance.
+## **Skills Demonstrated**
 
-Test VM deployments and review policy enforcement results.
+**Microsoft Entra ID**  
+**Identity Synchronization**  
+**Microsoft Entra Connect Sync**  
+**Microsoft Entra Cloud Sync**  
+**Active Directory**  
+**Dynamic Groups**  
+**Security Groups**  
+**Azure Policy**  
+**Azure Governance**  
+**Azure VM Governance**  
+**PowerShell**
 
-Evidence / Screenshots
-The complete lab documentation contains the configuration steps,
-screenshots, validation results, and policy testing performed during the
-lab.
+---
 
-View the Complete Lab Screenshots & Documentation
-(PDF)
+## **Project Information**
 
-Key Outcomes
-Verified identity synchronization between on-premises Active
-Directory and Microsoft Entra ID.
+**Project:** Microsoft Entra Identity, Synchronization & Azure Governance Lab
 
-Configured both Microsoft Entra Connect Sync and Microsoft Entra
-Cloud Sync.
-
-Implemented user and group management with dynamic membership.
-
-Applied Microsoft Entra ID P2 licensing.
-
-Implemented Azure Policy governance controls.
-
-Validated policy enforcement through VM deployment testing.
-
-Skills Demonstrated
-Microsoft Entra ID Identity Synchronization Entra Connect Sync
-Entra Cloud Sync Active Directory Dynamic Groups Security Groups
-Azure Policy Azure Governance Azure VM Governance PowerShell
-
-Project: Microsoft Entra Identity, Synchronization & Azure
-Governance Lab
-
+**Focus Areas:** Identity Management | Synchronization | Azure Governance | Policy Enforcement | Cloud Administration
