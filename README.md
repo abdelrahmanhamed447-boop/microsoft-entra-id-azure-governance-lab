@@ -15,6 +15,24 @@ The lab includes practical configuration and validation across:
 * PowerShell
 
 ---
+## 📑 Table of Contents
+
+- [Lab Documentation](#-lab-documentation)
+- [Lab Objectives](#-lab-objectives)
+- [Lab Environment](#-lab-environment)
+- [Prerequisites](#-prerequisites)
+- [Technologies & Services](#-technologies--services)
+- [Lab Workflow](#-lab-workflow)
+- [Key Outcomes](#-key-outcomes)
+- [Skills Demonstrated](#-skills-demonstrated)
+- [Practical Validation](#-practical-validation)
+- [Evidence & Documentation](#-evidence--documentation)
+- [Project Information](#-project-information)
+- [Learning Outcomes](#-learning-outcomes)
+- [Project Summary](#-project-summary)
+- [Repository](#-repository)
+
+---
 
 ## 📄 Lab Documentation
 
