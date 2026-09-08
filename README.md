@@ -20,7 +20,7 @@ The lab includes practical configuration and validation across:
 
 Complete **100-page lab documentation** containing configuration steps, screenshots, validation results, and Azure Policy testing.
 
-📑 **[View Complete Lab Documentation](./microsoft-entra-id-azure-governance-lab.pdf)**
+📑 **[Download the Complete 100-Page Lab Documentation](https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab/raw/refs/heads/main/microsoft-entra-id-azure-governance-lab.pdf)**
 
 ---
 
@@ -237,8 +237,6 @@ The complete **100-page PDF documentation** contains screenshots and evidence co
 * Policy-denied deployment analysis
 * Governance validation
 
-📄 [📄 View / Download the 100-Page Lab Documentation](./microsoft-entra-id-azure-governance-lab.pdf)
-
 ---
 
 ## ⭐ Project Summary
@@ -249,6 +247,6 @@ This project demonstrates practical experience with **Microsoft Entra ID, identi
 
 ### 🔗 Repository
 
-📂 **[Microsoft Entra Identity, Synchronization & Azure Governance Lab](https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab)**
+📂 **[Microsoft Entra Identity, Synchronization & Azure Governance Lab]((https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab/raw/refs/heads/main/microsoft-entra-id-azure-governance-lab.pdf)**)**
 
 ⭐ Feel free to explore the repository and review the complete lab documentation.
