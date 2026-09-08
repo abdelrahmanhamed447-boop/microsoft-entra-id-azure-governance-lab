@@ -265,6 +265,9 @@ This project demonstrates practical experience with **Microsoft Entra ID, identi
 
 ### 🔗 Repository
 
-📂 **[Microsoft Entra Identity, Synchronization & Azure Governance Lab]((https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab/raw/refs/heads/main/microsoft-entra-id-azure-governance-lab.pdf)**)**
+📂 **[Microsoft Entra Identity, Synchronization & Azure Governance Lab](https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab)**
+
+📄 **[Download the Complete 100-Page Lab Documentation](https://github.com/abdelrahmanhamed447-boop/microsoft-entra-id-azure-governance-lab/raw/refs/heads/main/microsoft-entra-id-azure-governance-lab.pdf)**
 
 ⭐ Feel free to explore the repository and review the complete lab documentation.
+
