@@ -237,7 +237,7 @@ The complete **100-page PDF documentation** contains screenshots and evidence co
 * Policy-denied deployment analysis
 * Governance validation
 
-📄 **[View Complete Lab Screenshots & Documentation](./microsoft-entra-id-azure-governance-lab.pdf)**
+📄 [📄 View / Download the 100-Page Lab Documentation](./microsoft-entra-id-azure-governance-lab.pdf)
 
 ---
 
